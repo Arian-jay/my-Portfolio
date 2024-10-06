@@ -208,7 +208,7 @@
       </v-container>
     </v-main>
 
-    <v-footer class="bg-grey-darken-4 py-4">
+    <v-footer class="bg-white py-4">
       <v-container>
         <v-row align="center" justify="space-between">
           <v-col cols="12" md="6" class="text-center text-md-left">
