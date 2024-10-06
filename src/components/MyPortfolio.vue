@@ -169,8 +169,8 @@
             <h2 class="text-h3 font-weight-bold mb-8 text-center animated fadeIn section-title">Get In Touch</h2>
             <v-row justify="center">
               <v-col cols="12" md="8">
-                <v-card class="bg-glass animated fadeInUp">
-                  <v-card-text>
+                <v-card class="animated fadeIn">
+                  <v-card-text class="bg-grey-lighten-1">
                     <v-form @submit.prevent="submitForm">
                       <v-text-field
                         v-model="form.name"
@@ -208,7 +208,7 @@
       </v-container>
     </v-main>
 
-    <v-footer class="bg-white py-4">
+    <v-footer class="bg-grey-darken-4 py-4">
       <v-container>
         <v-row align="center" justify="space-between">
           <v-col cols="12" md="6" class="text-center text-md-left">
@@ -290,6 +290,7 @@ const form = ref({
   name: '',
   email: '',
   message: '',
+  color: '#BDBDB'
 })
 
 const submitForm = () => {
