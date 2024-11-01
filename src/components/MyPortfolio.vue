@@ -148,8 +148,8 @@
             <v-row justify="center">
               <v-col cols="12" md="8">
                 <v-card class="bg-glass animated fadeInUp">
-                  <v-card-title class="text-h5 grey-darken-1">Bachelor of Science in Information Technology</v-card-title>
-                  <v-card-subtitle class="text-h6 grey-darken-1">Caraga State University</v-card-subtitle>
+                  <v-card-title class="text-h5 text-white">Bachelor of Science in Information Technology</v-card-title>
+                  <v-card-subtitle class="text-h6 text-light-green-accent-4">Caraga State University</v-card-subtitle>
                   <v-card-text>
                     <p class="mb-2">Graduated with honors, specializing in Web Technologies and Artificial Intelligence</p>
                     <p class="text-grey">2022 - 2026</p>
