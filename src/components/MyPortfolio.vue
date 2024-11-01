@@ -59,7 +59,7 @@
                       I'm a passionate full-stack developer with a keen eye for design and user experience. With expertise in Vue.js, React, Node.js, and various backend technologies, I specialize in creating responsive and user-friendly web applications that not only look great but also perform exceptionally well.
                     </p>
                     <p class="mb-4">
-                      My journey in web development started 5 years ago, and since then, I've had the opportunity to work on diverse projects ranging from e-commerce platforms to complex data visualization tools. I'm always excited to take on new challenges and learn cutting-edge technologies to stay ahead in this ever-evolving field.
+                      My journey in web development started 3 years ago, and since then, I've had the opportunity to work on diverse projects ranging from e-commerce platforms to complex data visualization tools. I'm always excited to take on new challenges and learn cutting-edge technologies to stay ahead in this ever-evolving field.
                     </p>
                     <p>
                       When I'm not coding, you'll find me exploring the great outdoors, experimenting with new recipes in the kitchen, or contributing to open-source projects. I believe in the power of community and continuous learning, which is why I regularly attend tech meetups and conferences.
@@ -148,8 +148,8 @@
             <v-row justify="center">
               <v-col cols="12" md="8">
                 <v-card class="bg-glass animated fadeInUp">
-                  <v-card-title class="text-h5">Bachelor of Science in Information Technology</v-card-title>
-                  <v-card-subtitle class="text-h6">Caraga State University</v-card-subtitle>
+                  <v-card-title class="text-h5 grey-darken-1">Bachelor of Science in Information Technology</v-card-title>
+                  <v-card-subtitle class="text-h6 grey-darken-1">Caraga State University</v-card-subtitle>
                   <v-card-text>
                     <p class="mb-2">Graduated with honors, specializing in Web Technologies and Artificial Intelligence</p>
                     <p class="text-grey">2022 - 2026</p>
