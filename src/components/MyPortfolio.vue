@@ -1,7 +1,13 @@
 <template>
   <v-app>
-    <v-app-bar app color="rgba(18, 18, 18, 0.9)" elevation="1" class="px-4">
-      <v-app-bar-title class="text-primary font-weight-bold">AJP</v-app-bar-title>
+    <v-app-bar app color="rgba(143, 143, 143, 0.9)" elevation="1" class="px-4">
+      <v-img
+      src="../assets/logo.png"
+      alt="Arian Jay Prisco"
+      max-height="70"
+      max-width="120"
+      contain
+      class="mr-1 white--text"></v-img>
       <v-spacer></v-spacer>
       <v-btn
         v-for="item in menuItems"
